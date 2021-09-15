@@ -38,7 +38,7 @@ setup(
     
         'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)',
     
-        'Operating System :: Microsoft :: MacOS',
+        'Operating System :: MacOS',
     
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
